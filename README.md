@@ -1,4 +1,3 @@
 # Dashboard Supermarket Sales
 
-![Dashboard Supermarket Sales]("C:/Users/Rafi/Downloads/Supermarket Sales_page-0001.jpg")
-
+![image](https://github.com/user-attachments/assets/4645ce7b-046d-49f6-b346-57a78eaacd29)
